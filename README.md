@@ -255,73 +255,27 @@
     <!-- الرسالة حول الوضع -->
     <div id="mode-message" class="mode-message">PHARMACIE GARDE JOUR MARRAKECH</div>
 
-    <!-- قسم الأزرار العمودية -->
-    <div class="button-container-vertical">
-        <button class="btn-vertical" onclick="navigateTo('teste2.html')">
-            <span class="icon">🏥</span>
-            Grand guéliz
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">6 PHARMACIES DE GARDE</div>
-        </button>
+    <!-- قسم الأزرار العمودية --><!-- قسم الأزرار العمودية -->
+<div class="button-container-vertical">
+    <button class="btn-vertical" onclick="window.location.href='teste2.html'">
+        <span class="icon">🏥</span>
+        Grand guéliz
+        <div class="time">De 09h A 22h sans Interruption</div>
+        <div class="show-pharmacy">6 PHARMACIES DE GARDE</div>
+    </button>
 
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
+    <button class="btn-vertical" onclick="window.location.href='izdihar.html'">
+        <span class="icon">🏥</span>
+        izdihar
+        <div class="time">De 09h A 22h sans Interruption</div>
+        <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+    </button>
 
-        <!-- زر Hy hassani -->
-        <button class="btn-vertical" onclick="navigateTo('Hyhassani.html')">
-            <span class="icon">🏥</span>
-            Hy hassani
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">5 PHARMACIES DE GARDE</div>
-        </button>
-        
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
-
-        
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
-
-        
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
-
-        
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
-
-        
-        <!-- الزر المعدل -->
-        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
-            <span class="icon">🏥</span>
-            izdihar
-            <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
-        </button>
-    </div>
+    <button class="btn-vertical" onclick="window.location.href='Hyhassani.html'">
+        <span class="icon">🏥</span>
+        Hy hassani
+        <div class="time">De 09h A 22h sans Interruption</div>
+        <div class="show-pharmacy">5 PHARMACIES DE GARDE</div>
+    </button>
+</div>
 </body>
