@@ -201,8 +201,8 @@
             document.getElementById('mode-message').textContent = "PHARMACIE GARDE JOUR A MARRAKECH";
         }
 
-        function redirectToTeste2() {
-            window.location.href = "teste2.html";
+        function navigateTo(page) {
+            window.location.href = page;
         }
     </script>
 </head>
@@ -237,28 +237,31 @@
     <div class="divider"></div>
 
     <!-- الرسالة حول الوضع -->
-    <div id="mode-message" class="mode-message">PHARMACIE GARDE JOUR À MARRAKECH</div>
+    <div id="mode-message" class="mode-message">PHARMACIE GARDE JOUR MARRAKECH</div>
 
+    <!-- قسم الأزرار العمودية -->
     <div class="button-container-vertical">
-        <!-- زر Grand guelize -->
-        <button class="btn-vertical" onclick="redirectToTeste2()">
-            <span class="icon">🏥</span> Grand guelize
+        <button class="btn-vertical" onclick="navigateTo('grandguelize.html')">
+            <span class="icon fas fa-map-marker-alt"></span>
+            Grand guéliz
             <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">Voir les pharmacies</div>
+            <div class="show-pharmacy">6 PHARMACIES DE GARDE</div>
         </button>
 
-        <!-- زر Izdihar -->
-        <button class="btn-vertical" onclick="redirectToizdihar.html">
-            <span class="icon">🏥</span> Izdihar
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon fas fa-map-marker-alt"></span>
+            izdihar
             <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">Voir les pharmacies</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
         </button>
 
         <!-- زر Hy hassani -->
-        <button class="btn-vertical" onclick="redirectTohyhassani.html()">
-            <span class="icon">🏥</span> Hy hassani
+        <button class="btn-vertical" onclick="navigateTo('hyhassani.html')">
+            <span class="icon fas fa-map-marker-alt"></span>
+            Hy hassani
             <div class="time">De 09h A 22h sans Interruption</div>
-            <div class="show-pharmacy">Voir les pharmacies</div>
+            <div class="show-pharmacy">5 PHARMACIES DE GARDE</div>
         </button>
     </div>
 </body>
