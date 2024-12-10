@@ -277,6 +277,49 @@
             <div class="time">De 09h A 22h sans Interruption</div>
             <div class="show-pharmacy">5 PHARMACIES DE GARDE</div>
         </button>
+        
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon">🏥</span>
+            izdihar
+            <div class="time">De 09h A 22h sans Interruption</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+        </button>
+
+        
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon">🏥</span>
+            izdihar
+            <div class="time">De 09h A 22h sans Interruption</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+        </button>
+
+        
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon">🏥</span>
+            izdihar
+            <div class="time">De 09h A 22h sans Interruption</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+        </button>
+
+        
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon">🏥</span>
+            izdihar
+            <div class="time">De 09h A 22h sans Interruption</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+        </button>
+
+        
+        <!-- الزر المعدل -->
+        <button class="btn-vertical" onclick="navigateTo('izdihar.html')">
+            <span class="icon">🏥</span>
+            izdihar
+            <div class="time">De 09h A 22h sans Interruption</div>
+            <div class="show-pharmacy">4 PHARMACIES DE GARDE</div>
+        </button>
     </div>
 </body>
-</html>
