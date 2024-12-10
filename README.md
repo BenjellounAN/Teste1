@@ -257,7 +257,7 @@
         </button>
 
         <!-- زر Hy hassani -->
-        <button class="btn-vertical" onclick="navigateTo('hyhassani.html')">
+        <button class="btn-vertical" onclick="navigateTo('Hyhassani.html')">
             <span class="icon fas fa-map-marker-alt"></span>
             Hy hassani
             <div class="time">De 09h A 22h sans Interruption</div>
