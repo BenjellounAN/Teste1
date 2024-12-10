@@ -241,7 +241,7 @@
 
     <!-- قسم الأزرار العمودية -->
     <div class="button-container-vertical">
-        <button class="btn-vertical" onclick="navigateTo('grandguelize.html')">
+        <button class="btn-vertical" onclick="navigateTo('teste2.html')">
             <span class="icon fas fa-map-marker-alt"></span>
             Grand guéliz
             <div class="time">De 09h A 22h sans Interruption</div>
