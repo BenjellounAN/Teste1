@@ -248,14 +248,14 @@
         </button>
 
         <!-- زر Izdihar -->
-        <button class="btn-vertical" onclick="redirectToTeste2()">
+        <button class="btn-vertical" onclick="redirectToizdihar()">
             <span class="icon">🏥</span> Izdihar
             <div class="time">De 09h A 22h sans Interruption</div>
             <div class="show-pharmacy">Voir les pharmacies</div>
         </button>
 
         <!-- زر Hy hassani -->
-        <button class="btn-vertical" onclick="redirectToTeste2()">
+        <button class="btn-vertical" onclick="redirectTohyhassani()">
             <span class="icon">🏥</span> Hy hassani
             <div class="time">De 09h A 22h sans Interruption</div>
             <div class="show-pharmacy">Voir les pharmacies</div>
