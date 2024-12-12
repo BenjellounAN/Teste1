@@ -255,7 +255,7 @@
     <!-- الرسالة حول الوضع -->
     <div id="mode-message" class="mode-message">PHARMACIE GARDE JOUR MARRAKECH</div>
 
-    <!-- قسم الأزرار العمودية --><!-- قسم الأزرار العمودية --><button class="btn-vertical" onclick="navigate('teste2.html', 'Geulizenight.html')">
+    <!-- قسم الأزرار العمودية --><!-- قسم الأزرار العمودية --><button class="btn-vertical" onclick="navigate('teste2.html', 'teste2night.html')">
     <span class="icon">🏥</span>
     Grand guéliz
     <div class="time">De 09h A 22h sans Interruption</div>
