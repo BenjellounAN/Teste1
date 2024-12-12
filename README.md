@@ -276,7 +276,7 @@
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('teste2.html', 'geulizenight.html')">
+<button class="btn-vertical" onclick="navigate('teste2.html', 'Guelizenight.html')">
     <span class="icon">🏥</span>
     Grand guéliz
     <div class="time">De 09h A 22h sans Interruption</div>
