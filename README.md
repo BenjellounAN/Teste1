@@ -276,63 +276,63 @@
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('teste2.html', 'Guelizenight.html')">
+<button class="btn-vertical" onclick="navigate('medina.html', 'Guelizenight.html')">
     <span class="icon">🏥</span>
     Medina
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('izdihar.html', 'izdiharnight.html')">
+<button class="btn-vertical" onclick="navigate('daoudiat.html', 'izdiharnight.html')">
     <span class="icon">🏥</span>
     daoudiat 
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('haycharaf.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 hay charaf 
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('saada.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 hay dar saada
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('sidighanem.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 sidi ghanem azzouzia
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('targa.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 Targa 
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('ainitti.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 Aïn itti  
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('sidiyoussef.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 Sidi youssef 
     <div class="time">De 09h A 22h sans Interruption</div>
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('Hyhassani.html', 'hyhassaninight.html')">
+<button class="btn-vertical" onclick="navigate('lmhamid.html', 'hyhassaninight.html')">
     <span class="icon">🏥</span>
 Lmhamid 
     <div class="time">De 09h A 22h sans Interruption</div>
