@@ -119,7 +119,7 @@
         }
 
         .btn-vertical {
-            padding: 40px; /* زيادة الحشو لجعل الزر أكبر */
+            padding: 85px; /* زيادة الحشو لجعل الزر أكبر */
             font-size: 24px; /* تكبير حجم الخط */
             font-weight: bold;
             color: #00cc66; /* لون الكتابة أخضر */
