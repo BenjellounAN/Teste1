@@ -276,7 +276,7 @@
     <div class="show-pharmacy">affiché les pharmacie</div>
 </button>
 
-<button class="btn-vertical" onclick="navigate('medina.html', 'Guelizenight.html')">
+<button class="btn-vertical" onclick="navigate('Medina.html', 'Guelizenight.html')">
     <span class="icon">🏥</span>
     Medina
     <div class="time">De 09h A 22h sans Interruption</div>
